@@ -1,21 +1,21 @@
-Welcome to Seat SitDown
+==Welcome to Seat SitDown
 
 This is a project modelled off the popular site Open Table. 
 Users can add new restaurants, and set and view reservations.
 This repo adds new functions to Seat Yo-Self app (https://github.com/drewemartin/seat_yo-self).
 
 
-Functionality Highlights
+==Functionality Highlights
 
 * Utilizes nested resources 
 
 * Single user model for both creating reservations and restaurants
 
-Specs
+==Specs
 
 * Made with Ruby on Rails(infrastructure) 
 
-Creator
+==Creator
 
 * Drew Martin (Drew.E.Martin@gmail.com)
 
